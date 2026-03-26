@@ -12,7 +12,9 @@ import { Pause } from 'lucide-react'
 import { usePathname } from 'next/navigation'
 import clsx from 'clsx'
 
-const MUSIC_FILES = ['/music/塞壬唱片-海愿.mp3']
+const MUSIC_FILES = ['/music/塞壬唱片-海愿.mp3','晨辉.mp3']
+// 在MUSIC_FILES下方添加
+const MUSIC_TITLES = ['第一首音乐标题', '第二首音乐标题']
 
 export default function MusicCard() {
 	const pathname = usePathname()
@@ -158,7 +160,9 @@ export default function MusicCard() {
 				<MusicSVG className='h-8 w-8' />
 
 				<div className='flex-1'>
-					<div className='text-secondary text-sm'>塞壬唱片-海愿</div>
+					{/* <div className='text-secondary text-sm'>塞壬唱片-海愿</div> */}
+					
+					<div className='text-secondary text-sm'>{MUSIC_TITLES[currentIndex]}</div>
 
 					<div className='mt-1 h-2 rounded-full bg-white/60'>
 						<div className='bg-linear h-full rounded-full transition-all duration-300' style={{ width: `${progress}%` }} />
