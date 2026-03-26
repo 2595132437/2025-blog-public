@@ -14,7 +14,7 @@ import clsx from 'clsx'
 
 const MUSIC_FILES = ['/music/塞壬唱片-海愿.mp3','晨辉.mp3']
 // 在MUSIC_FILES下方添加
-const MUSIC_TITLES = ['第一首音乐标题', '第二首音乐标题']
+const MUSIC_TITLES = ['塞壬唱片-海愿', '晨辉']
 
 export default function MusicCard() {
 	const pathname = usePathname()
