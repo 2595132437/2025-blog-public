@@ -43,7 +43,7 @@
 		"uploadedAt": "2026-03-29T08:58:06.788Z",
 		"description": "记着，黑键，我们曾经一同反抗了不公平的命，而我们得了胜!\n所以，想到我的时候，你应当笑，而不是哭。",
 		"images": [
-			"/images/pictures/553a7fe0efb5c34c.png"
+			"blob:https://2025-blog-public-steel-seven.vercel.app/4e20a0ef-e985-4ee7-95d4-ef29e7fc847b"
 		]
 	},
 	{
@@ -51,16 +51,16 @@
 		"uploadedAt": "2026-03-29T08:58:27.996Z",
 		"description": "记着我的话。\n黑键，你要活下去，你要走过漫长的夜晚。\n你要去反抗那些不公的命运，并且孜孜不倦地为他人付出。只有这样，当你坐下来的时候，才会想到我。\n我会问你，黑键，你今天过得如何?\n然后，你会挺起胸膛告诉我，你又度过了充实的一天。\n你会向我倾诉你在行善过程中遭遇的障碍，以及抱怨命运始终不愿青睐于你。但是没有关系，我会倾听你的一切。\n因为你是那么努力，你当然可以去抱怨一下。\n只有这样，你才不会被这片大地上的苦痛所淹没，你才能在你的生活中获得安宁。",
 		"images": [
-			"/images/pictures/50caca53fcbe6c89.png"
+			"blob:https://2025-blog-public-steel-seven.vercel.app/6980090a-1f60-46b5-b66a-e6d834bac5de"
 		]
 	},
 	{
 		"id": "1774774752413-a1dc19460b2a2",
 		"uploadedAt": "2026-03-29T08:59:12.413Z",
 		"images": [
-			"/images/pictures/569e38a616194c90.png",
-			"/images/pictures/13dca3953610993a.png",
-			"/images/pictures/2a82c84e4df50ca3.png"
+			"blob:https://2025-blog-public-steel-seven.vercel.app/c509dcfe-1a78-4660-bd0a-4d4cf9fab4fc",
+			"blob:https://2025-blog-public-steel-seven.vercel.app/61dd1f85-bca2-410b-a654-aa3fa12fec24",
+			"blob:https://2025-blog-public-steel-seven.vercel.app/34653888-d424-4cac-b438-284330ad02e7"
 		]
 	},
 	{
@@ -68,7 +68,15 @@
 		"uploadedAt": "2026-03-29T08:59:26.764Z",
 		"description": "卷卷往事，字字泣血，翻至最后一页，唯有“缺憾”二字。",
 		"images": [
-			"/images/pictures/998f04dd35b9204b.png"
+			"blob:https://2025-blog-public-steel-seven.vercel.app/4cab286e-58ae-48c4-b000-b2ada7e028f1"
+		]
+	},
+	{
+		"id": "1774775369652-a5099e2b9c7dc",
+		"uploadedAt": "2026-03-29T09:09:29.652Z",
+		"description": "“记得吗，我还欠你一个名字”\n“维什戴尔”\n“戴尔我知道，家嘛，维什……”\n“许愿”\n“许愿……一个家”",
+		"images": [
+			"/images/pictures/27aa8fa1d2adccaa.jpg"
 		]
 	}
 ]
