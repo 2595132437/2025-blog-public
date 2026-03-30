@@ -131,6 +131,8 @@ pip install jupyterlab-language-pack-zh-CN
     ~~删除线~~    - 过时内容
     `代码片段`     - 行内代码
     ---         - 分隔线
+	<br>		-回车
+	<hr>		-分隔线
 ```
 ---
 > 效果展示:<br>
