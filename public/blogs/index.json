@@ -2,7 +2,11 @@
   {
     "slug": "Jupyter-Markdown",
     "title": "文本编辑工具",
-    "tags": [],
+    "tags": [
+      "Jupyter",
+      "MarkDown",
+      "Xmind8"
+    ],
     "date": "2026-03-30T11:09",
     "summary": "采用MarkDown文档记录笔记，用Xmind来创建思维导图，梳理日常学习和生活中的知识体系。Xmind经常被我拿来做任务列表，嘻嘻~",
     "cover": "/blogs/Jupyter-Markdown/670d6bc2b1f27a91.png",
