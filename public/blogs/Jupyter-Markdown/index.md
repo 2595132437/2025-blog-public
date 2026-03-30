@@ -144,9 +144,9 @@ pip install jupyterlab-language-pack-zh-CN
 
 #### 链接引用
 ```
-Markdown语法：<br>
-[百度](https://www.baidu.com/ "一个搜索引擎")<br>
-参考前端CSS内容：<br>
+Markdown语法：
+[百度](https://www.baidu.com/ "一个搜索引擎")
+参考前端CSS内容：
 当前窗口打开：
 <a href="https://www.baidu.com" target="self">百度</a>
 新建窗口打开：
@@ -155,9 +155,9 @@ Markdown语法：<br>
 
 ```
 > 效果展示：<br>
->> [jupyter 7+ 设置代码自动补全](https://blog.csdn.net/qq_39644822/article/details/136362963)
->><a href="https://www.baidu.com" target="self">百度</a>
->><a href="https://www.baidu.com" target="_blank">百度</a>
+>> [jupyter 7+ 设置代码自动补全](https://blog.csdn.net/qq_39644822/article/details/136362963)<br>
+>><a href="https://www.baidu.com" target="self">百度</a><br>
+>><a href="https://www.baidu.com" target="_blank">百度</a><br>
 
 ### 视觉分隔与结构
 
