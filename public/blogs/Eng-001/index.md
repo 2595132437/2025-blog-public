@@ -1,0 +1,4 @@
+
+I get up at 7 o'clock every morning. After brushing my teeth and washing my face, I have a simple breakfast with my colleague. Restaurant owner often prepares bread and millet congee for me, which is quick and nutritious. Then I go to company by bike. It takes me about 15 minutes to get there. At company, I have six schedule and classes a day. My favorite subject is English because my English teacher is kind and patient. Get off work, I usually do my housework first. When I finish it, I play basketball with my friends for half an hour. It makes me relaxed. In the evening, I read an English storybook before going to bed. I think my daily life is busy but happy.
+
+核心词汇（初中）：daily, brush, breakfast, nutritious, bike, subject, patient, homework, relax, evening, storybook, colleague, millet congee, company,Get off work
