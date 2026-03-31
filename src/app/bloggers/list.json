@@ -268,9 +268,9 @@
 	},
 	{
 		"name": "YYsuni",
-		"avatar": "https://www.yysuni.com/images/avatar.png",
+		"avatar": "https://www.yysuni.com/favicon.png",
 		"url": "https://www.yysuni.com/",
-		"description": "仅仅静态前端界面可以做到如此程度，的确令人佩服。本界面就fork自博主的blog，界面简洁大方，美观自然，其他自不必多说。很多时候居然能在群里见到博主本尊出没，博客也时常更新，算是我的blog领路人。",
+		"description": "仅仅前端界面可以做到如此程度，其他自不必多说。很多时候居然能在群里见到博主本尊出没，博客也时常更新，算是我的blog领路人。",
 		"stars": 5
 	}
 ]
