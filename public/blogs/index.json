@@ -14,7 +14,9 @@
   {
     "slug": "Eng-001",
     "title": "My Daily Life",
-    "tags": [],
+    "tags": [
+      "英语"
+    ],
     "date": "2026-03-31T16:15",
     "summary": "第1天",
     "cover": "/blogs/Eng-001/62d769b70d8c6eb6.png",
