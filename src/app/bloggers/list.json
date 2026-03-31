@@ -272,5 +272,12 @@
 		"url": "https://www.yysuni.com/",
 		"description": "仅仅前端界面可以做到如此程度，其他自不必多说。很多时候居然能在群里见到博主本尊出没，博客也时常更新，算是我的blog领路人。",
 		"stars": 5
+	},
+	{
+		"name": "-次獒-",
+		"avatar": "https://avatars.githubusercontent.com/u/127203903?v=4",
+		"url": "https://blog.2dog.uk/",
+		"description": "YYsuni大佬的魔改版，修改和添加了很多功能，fork教程很详细，有些板块做了加密功能，算是对狗哥不羁的保护吧。",
+		"stars": 3
 	}
 ]
