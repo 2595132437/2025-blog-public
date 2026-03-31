@@ -9,7 +9,7 @@
     "summary": "大晚上想起做测试，苦命~",
     "cover": "/blogs/test-pic/e35665736e0f6829.jpg",
     "hidden": false,
-    "category": ""
+    "category": "测试"
   },
   {
     "slug": "english-60",
@@ -21,7 +21,7 @@
     "summary": "咱们交朋友吧，说实话，你知我长短，我知你深浅，咱们没必要装不熟，对吧~",
     "cover": "/blogs/english-60/3863ecbca6b871ec.png",
     "hidden": false,
-    "category": ""
+    "category": "英语"
   },
   {
     "slug": "cube-1",
@@ -33,7 +33,7 @@
     "summary": "虽然但是，觉得规范一下手法会比较好一些~",
     "cover": "/blogs/cube-1/0820453f79c8e283.png",
     "hidden": false,
-    "category": ""
+    "category": "魔方"
   },
   {
     "slug": "Jupyter-Markdown",
@@ -47,6 +47,6 @@
     "summary": "采用MarkDown文档记录笔记，用Xmind来创建思维导图，梳理日常学习和生活中的知识体系。Xmind经常被我拿来做任务列表，嘻嘻~",
     "cover": "/blogs/Jupyter-Markdown/670d6bc2b1f27a91.png",
     "hidden": false,
-    "category": ""
+    "category": "笔记"
   }
 ]
