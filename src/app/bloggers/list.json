@@ -3,7 +3,7 @@
 		"name": "阮一峰的网络日志",
 		"avatar": "/images/blogger/fe25259da8e3609b.png",
 		"url": "https://www.ruanyifeng.com/blog/archives.html",
-		"description": "经典必看，每周更新。无聊是看新闻、还是学习、还是拓展眼界，都是能其中获取到乐趣的。还有很多网友的每周留言。这就是 blog 的含金量。",
+		"description": "经典必看，每周更新。无论是看新闻、还是学习、还是拓展眼界，都是能其中获取到乐趣的。还有很多网友的每周留言。这就是 blog 的含金量。",
 		"stars": 5
 	},
 	{
@@ -265,5 +265,12 @@
 		"url": "https://blog.dumogu.top/",
 		"description": "前端开发，页面小巧，结构简单，寻常记录",
 		"stars": 3
+	},
+	{
+		"name": "YYsuni",
+		"avatar": "https://www.yysuni.com/images/avatar.png",
+		"url": "https://www.yysuni.com/",
+		"description": "仅仅静态前端界面可以做到如此程度，的确令人佩服。本界面就fork自博主的blog，界面简洁大方，美观自然，其他自不必多说。很多时候居然能在群里见到博主本尊出没，博客也时常更新，算是我的blog领路人。",
+		"stars": 5
 	}
 ]
