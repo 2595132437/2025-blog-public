@@ -1,5 +1,18 @@
 [
   {
+    "slug": "wydt-05",
+    "title": "我与地坛",
+    "tags": [
+      "我与地坛",
+      "史铁生"
+    ],
+    "date": "2026-04-09T09:21",
+    "summary": "就命运而言，休论公道。那么，一切不幸命运的救赎之路在哪里呢？",
+    "cover": "/blogs/wydt-05/9798b3d93e90a8c5.png",
+    "hidden": false,
+    "category": "文学"
+  },
+  {
     "slug": "Jiecha-history",
     "title": "截岔往事",
     "tags": [
