@@ -279,5 +279,12 @@
 		"url": "https://blog.2dog.uk/",
 		"description": "YYsuni大佬的魔改版，修改和添加了很多功能，fork教程很详细，有些板块做了加密功能，算是对狗哥不羁的保护吧。",
 		"stars": 4
+	},
+	{
+		"name": "数字游牧人",
+		"avatar": "https://avatars.githubusercontent.com/u/19623228?v=4",
+		"url": "https://www.qzq.at/",
+		"description": "一个似曾相识的博主，blog很花哨，可以来找找灵感，读读想法。",
+		"stars": 4
 	}
 ]
