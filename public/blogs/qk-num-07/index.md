@@ -1,4 +1,4 @@
-# Hilbert的个人周刊-第6期
+# Hilbert的个人周刊-第7期
 
 ![](/blogs/qk-num-07/81e2bad69449741c.webp)
 
