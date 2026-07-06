@@ -308,4 +308,18 @@
 		"description": "一个很漂亮的博客界面，其中可视化元素较多，较为丰富的视图元素会带给人很好的视觉体验和创造想法",
 		"stars": 3
 	}
+	{
+		"name": "陈梓聪",
+		"avatar": "https://avatars.githubusercontent.com/u/47730755?v=4",
+		"url": "https://leoku.dev/zh/me",
+		"description": "v2ex 发现的人，并不发blog，但是个人网站很好看，一眼过去，很难不称赞。开源的 V2EX_Polish 确实很好用。",
+		"stars": 4
+	},
+	{
+		"name": "haoqi.design",
+		"avatar": "https://haoqi.design/apple-icon.png?apple-icon.179f0bdd.png",
+		"url": "https://haoqi.design/",
+		"description": "设计的很棒的个人网站",
+		"stars": 5
+	}
 ]

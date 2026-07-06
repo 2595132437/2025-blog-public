@@ -77,5 +77,28 @@
 			"Library"
 		],
 		"github": "https://github.com/YYsuni/archive-suni"
+	},
+	{
+		"name": "箭头生成小工具",
+		"year": 2026,
+		"image": "/images/project/03c08b1832f36f02.png",
+		"url": "https://currve-arrow.yysuni.com/",
+		"description": "实时生成弧线箭头 SVG，可用于图表绘制，也可用于设计取材。没想到这也被周刊看上。",
+		"tags": [
+			"arrow",
+			"阮周刊"
+		],
+		"github": "https://github.com/YYsuni/curve-arrow",
+		"npm": "https://www.npmjs.com/package/curve-arrow"
+	},
+	{
+		"name": "Python3.12 教程",
+		"year": 2026,
+		"image": "https://python-docs.yysuni.com/favicon.svg",
+		"url": "https://python-docs.yysuni.com/docs",
+		"description": "官方教程看起来并不友好，我自己借助 AI 并后续时常整理的一份教程，可以看着我的学习笔记，也可以当作一份教程。",
+		"tags": [
+			"教程"
+		]
 	}
 ]
