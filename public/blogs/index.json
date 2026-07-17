@@ -58,7 +58,9 @@
   {
     "slug": "qk-num-05",
     "title": "Hilbert的个人周刊-第5期",
-    "tags": [],
+    "tags": [
+      "望朔刊"
+    ],
     "date": "2026-06-06T14:24",
     "summary": "qk-num-05",
     "cover": "/blogs/qk-num-05/906e240a59846774.webp",
